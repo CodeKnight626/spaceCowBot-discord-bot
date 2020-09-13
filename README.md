@@ -2,7 +2,7 @@
 ### EN: 
 Bot created to send  a welcome message whenever a new user joins the guild. I will be updating the code to add more functionalities, so far it's pretty simple.
 Right now I am making the bot able to kick and ban users.
-If you want to use the bot I'll drop the link below, just be aware that is still on development and I continously make tests, si it could be unstable sometimes.
+If you want to use the bot I'll drop the link below, just be aware that is still on development and I continuously make tests, si it could be unstable sometimes.
 
 ### ES:
 Bot creado para mandar mensajes de bienvenida cuando un nuevo usuario se una al server. Ire acutalizando el código para ir añadiendo mas fucnionalidades, por mientras es bastante simple. En este momento estoy añadiendo la funcion para banear usuarios.
