@@ -2,11 +2,11 @@
 ### EN: 
 Bot created to send  a welcome message whenever a new user joins the guild. I will be updating the code to add more functionalities, so far it's pretty simple.
 Right now I am making the bot able to kick and ban users.
-If you want to use the bot I'll drop the link below, just be aware that is still on development and I continuously make tests, si it could be unstable sometimes.
+If you want to use the bot I'll drop the link below, just be aware that is still on development and I continuously make tests, so it could be unstable sometimes.
 
 ### ES:
 Bot creado para mandar mensajes de bienvenida cuando un nuevo usuario se una al server. Ire acutalizando el código para ir añadiendo mas fucnionalidades, por mientras es bastante simple. En este momento estoy añadiendo la funcion para banear usuarios.
-Gracias, si quieren usar el bot dejaré el Link abajo, solo tengan en cuenta que sigue en pruebas y continuamente sigo haciendo mas funciones, por lo que algunas veces puede estar inestable.
+Si quieren usar el bot dejaré el Link abajo, solo tengan en cuenta que sigue en pruebas y continuamente sigo haciendo mas funciones, por lo que algunas veces puede estar inestable.
 
 <img src="https://cdn1.vectorstock.com/i/1000x1000/24/95/robot-cowboy-west-wild-world-vector-12162495.jpg">
 
